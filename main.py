@@ -1,3 +1,4 @@
+
 from class_calc import Calculator
 
 # program untuk menjalankan calculator
@@ -19,3 +20,5 @@ while True:
     if lanjut.lower()[0] == 'y':
         continue
     else: break
+
+print('Terimakasih banyak')
